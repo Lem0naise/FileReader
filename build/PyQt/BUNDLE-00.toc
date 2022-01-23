@@ -1,0 +1,3 @@
+([('PyQt',
+   '/Users/zacnolan/Documents/Code/Python/PyQtFileReader/dist/PyQt',
+   'EXECUTABLE')],)
